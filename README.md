@@ -1,6 +1,6 @@
 För att spara datan från XML-filen har vi skapat en WeatherData class
 
-Den klassen kommer köra en funktion som har en Url i sig som ger XML-data.
+Den klassen kommer köra en funktion/konstrueras som har en Url i sig som ger XML-data.
 I den XML-datan kommer information om:
 
 Temperatur: double value,
