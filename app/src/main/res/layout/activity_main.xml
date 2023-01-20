@@ -130,11 +130,11 @@
 
     <TextView
         android:id="@+id/title"
-        android:layout_width="219dp"
-        android:autoSizeMaxTextSize="20sp"
-        android:autoSizeMinTextSize="12sp"
-        android:layout_height="33dp"
+        android:layout_width="343dp"
+        android:layout_height="51dp"
         android:text="@string/title"
+        android:textSize="70px"
+        android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
