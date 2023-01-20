@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">laboration01</string>
     <string name="refresh">Refresh</string>
+    <string name="temperature">Temperature: </string>
+    <string name="windspeed">WindSpeed: </string>
+    <string name="cloudiness">Cloudiness: </string>
+    <string name="textview">TextView</string>
 </resources>
