@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 url = new URL(urls[0]);
 //                this code could give us a error if he had a malformed url.
                 urlConnection = (HttpURLConnection) url.openConnection();
+                urlConnection.setRequestProperty("User-Agent", "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2");
                 InputStream in = urlConnection.getInputStream();
 //                we use this to do the loading from the net. this is just a stream that holds the input of data
                 InputStreamReader reader = new InputStreamReader(in);
