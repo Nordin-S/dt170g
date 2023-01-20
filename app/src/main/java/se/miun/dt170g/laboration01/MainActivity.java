@@ -16,6 +16,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Button button = findViewById(R.id.refreshButton);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //DailyWeather tmp = new DailyWeather();
+            }
+        });
         ImageView img= (ImageView) findViewById(R.id.weatherPicture);
         img.setImageResource(R.mipmap.ic_launcherstorm);
 
