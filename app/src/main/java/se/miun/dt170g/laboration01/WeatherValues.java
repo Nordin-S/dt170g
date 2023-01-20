@@ -9,7 +9,7 @@ public class WeatherValues {
     String wind_unit = "mps";
     String wind_direction;
 
-    float clodiness_percentage;
+    float cloudiness_percentage;
 
     String percipitation_unit = "mm";
     float percipitation_min;
