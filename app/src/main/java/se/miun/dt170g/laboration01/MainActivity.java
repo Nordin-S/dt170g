@@ -1,12 +1,14 @@
 package se.miun.dt170g.laboration01;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
+
+import java.io.BufferedReader;
+import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,4 +26,5 @@ public class MainActivity extends AppCompatActivity {
             throw new RuntimeException(e);
         }
     }
+
 }
