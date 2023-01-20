@@ -4,5 +4,6 @@
     <string name="temperature">Temperature: </string>
     <string name="windspeed">WindSpeed: </string>
     <string name="cloudiness">Cloudiness: </string>
+    <string name="precipitation">Precipitation: </string>
     <string name="textview">TextView</string>
 </resources>
