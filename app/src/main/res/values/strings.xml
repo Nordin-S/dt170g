@@ -2,8 +2,13 @@
     <string name="app_name">laboration01</string>
     <string name="refresh">Refresh</string>
     <string name="temperature">Temperature: </string>
+    <string name="tempValue">0</string>
     <string name="windspeed">WindSpeed: </string>
+    <string name="windValue">0</string>
     <string name="cloudiness">Cloudiness: </string>
+    <string name="cloudValue">0</string>
     <string name="precipitation">Precipitation: </string>
+    <string name="precValue">0</string>
+    <string name="title">Weather Application</string>
     <string name="textview">TextView</string>
 </resources>
