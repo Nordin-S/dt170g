@@ -14,8 +14,4 @@ public class WeatherValues {
     String percipitation_unit = "mm";
     float percipitation_min;
     float percipitation_max;
-
-
-
-
 }
