@@ -13,7 +13,7 @@ import java.net.URL;
 public class RetrieveFeedTask extends AsyncTask<String, String, String> {
 
     public String doInBackground(String... urls) {
-        String result = null;
+        String result = "";
         HttpURLConnection urlConnection = null;
         URL url;
         try {

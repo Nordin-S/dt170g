@@ -25,9 +25,6 @@ public class Parser {
 
     //CTOR
     public Parser() {};
-    public Parser(String in) {
-        parse(in);
-    }
 
     public double getValue() {
         return value;
@@ -60,9 +57,10 @@ public class Parser {
     //File file = new File(fileName);
 
 
-    private void parse(String in) {
+    public void parse(String in) {
 
-        XmlPullParserFactory factory = null;
+        XmlPullParserFactory factory;
+
         try {
             factory = XmlPullParserFactory.newInstance();
             //factory.setNamespaceAware(true);
