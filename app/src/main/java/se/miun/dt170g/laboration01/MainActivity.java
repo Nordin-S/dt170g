@@ -17,14 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Parser parser = new Parser();
-        try {
-            parser.parse();
-        } catch (XmlPullParserException e) {
-            throw new RuntimeException(e);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        //Parser parser = new Parser();
+        //parse.getWind();
     }
 
 }
