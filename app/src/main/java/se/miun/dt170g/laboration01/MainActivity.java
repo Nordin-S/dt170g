@@ -19,7 +19,5 @@ public class MainActivity extends AppCompatActivity {
         ImageView img= (ImageView) findViewById(R.id.weatherPicture);
         img.setImageResource(R.mipmap.ic_launcherstorm);
 
-
-
     }
 }

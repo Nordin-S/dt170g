@@ -1,6 +1,7 @@
 package se.miun.dt170g.laboration01;
 
 public class DailyWeather {
+    private final int weatherIcon;
     private final double temperature;
     private final String temperatureUnit;
     private final double windSpeed;
@@ -13,7 +14,8 @@ public class DailyWeather {
     private final String rainingUnit;
 
     // Constructor
-    DailyWeather(double temperature, double windSpeed, String windDirection, double cloudiness, double raining_min, double raining_max) {
+    DailyWeather(int weatherIcon, double temperature, double windSpeed, String windDirection, double cloudiness, double raining_min, double raining_max) {
+        this.weatherIcon    = weatherIcon;
         this.temperature    = temperature;
         this.windSpeed      = windSpeed;
         this.windDirection  = windDirection;
@@ -25,6 +27,8 @@ public class DailyWeather {
         this.cloudinessUnit = "%";
         this.rainingUnit    = "mm";
     }
+
+    public int getWeatherIcon() { return weatherIcon; }
 
     public double getTemperature() {
         return temperature;
@@ -66,7 +70,7 @@ public class DailyWeather {
         return rainingUnit;
     }
 
-    public DailyWeather refreshDailyWeather(double newTemperature, double newWindSpeed, String newWindDirection, double newCloudiness, double newRaining_min, double newRaining_max) {
-        return new DailyWeather(newTemperature, newWindSpeed, newWindDirection, newCloudiness, newRaining_min, newRaining_max);
+    public DailyWeather refreshDailyWeather(int newWeatherIcon, double newTemperature, double newWindSpeed, String newWindDirection, double newCloudiness, double newRaining_min, double newRaining_max) {
+        return new DailyWeather(newWeatherIcon, newTemperature, newWindSpeed, newWindDirection, newCloudiness, newRaining_min, newRaining_max);
     }
 }
