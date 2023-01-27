@@ -34,9 +34,12 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
             Log.i("Lord", "Error2");
         }
-        Log.i("Lord", result);
+//        Log.i("Lord", result);
 
-        //Parser parser = new Parser();
-        //parse.getWind();
+        Parser parser = new Parser(result);
+//        parser.
+
+                Log.i("testParser", parser.getName());
+//        parser.getWind();
     }
 }
