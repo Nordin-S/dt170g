@@ -20,11 +20,38 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //DailyWeather tmp = new DailyWeather();
+                // Create a new DailyWeather object
+            }
+            //function to set the weather picture
+            public void setWeatherPicture(DailyWeather tmp) {
+                ImageView img = (ImageView) findViewById(R.id.weatherPicture);
+                switch (tmp.getWeatherType()) {
+                    case "Clear":
+
+                        img.setImageResource(R.mipmap.ic_launcher);
+                        break;
+                    case "Clouds":
+
+                        img.setImageResource(R.mipmap.ic_launchercloudy);
+                        break;
+                    case "Rain":
+
+                        img.setImageResource(R.mipmap.ic_launcherainy);
+                        break;
+                    case "Snow":
+
+                        img.setImageResource(R.mipmap.ic_launchersnowy);
+                        break;
+                    case "Storm":
+
+                        img.setImageResource(R.mipmap.ic_launcherstorm);
+                        break;
+                }
+              //  ImageView img = (ImageView) findViewById(R.id.weatherPicture);
+                //img.setImageResource(R.mipmap.ic_launcherstorm);
             }
         });
-        ImageView img= (ImageView) findViewById(R.id.weatherPicture);
-        img.setImageResource(R.mipmap.ic_launcherstorm);
+
 
 
 
