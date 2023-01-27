@@ -36,10 +36,9 @@ public class MainActivity extends AppCompatActivity {
         }
 //        Log.i("Lord", result);
 
+        // koppla ihop IA med XML
         Parser parser = new Parser(result);
-//        parser.
-
-                Log.i("testParser", parser.getName());
+        Log.i("testParser", parser.getName());
 //        parser.getWind();
     }
 }
