@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     @SuppressLint("SetTextI18n")
+    void runBackgroundProcess(DailyWeather dw) {}
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,5 +56,10 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+        BackgroundProcess bp = new BackgroundProcess();
+        bp.run(weatherParser -> runBackgroundProcess(weatherParser));
     }
+
+
+
 }

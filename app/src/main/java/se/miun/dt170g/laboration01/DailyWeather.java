@@ -1,16 +1,16 @@
 package se.miun.dt170g.laboration01;
 
-public class DailyWeather {
-    private final double temperature;
-    private final String temperatureUnit;
-    private final double windSpeed;
-    private final String windSpeedUnit;
-    private final String windDirection;
-    private final double cloudiness;
-    private final String cloudinessUnit;
-    private final double raining_min;
-    private final double raining_max;
-    private final String rainingUnit;
+public class DailyWeather{
+    private double temperature;
+    private String temperatureUnit;
+    private double windSpeed;
+    private String windSpeedUnit;
+    private String windDirection;
+    private double cloudiness;
+    private String cloudinessUnit;
+    private double raining_min;
+    private double raining_max;
+    private String rainingUnit;
 
     // Constructor
     DailyWeather(double temperature, double windSpeed, String windDirection, double cloudiness, double raining_min, double raining_max) {
@@ -24,6 +24,10 @@ public class DailyWeather {
         this.windSpeedUnit  = "mps";
         this.cloudinessUnit = "%";
         this.rainingUnit    = "mm";
+    }
+
+    public DailyWeather() {
+
     }
 
     public double getTemperature() {
