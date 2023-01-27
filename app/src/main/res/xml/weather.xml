@@ -1,0 +1,2245 @@
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://schema.api.met.no/schemas/weatherapi-0.4.xsd" created="2023-01-20T14:07:39Z">
+  <meta>
+    <model name="met_public_forecast" termin="2023-01-20T14:00:00Z" runended="2023-01-20T13:38:58Z" nextrun="2023-01-20T14:38:58Z" from="2023-01-20T14:00:00Z" to="2023-01-30T12:00:00Z"></model>
+  </meta>
+  <product class="pointData">
+    <time datatype="forecast" from="2023-01-20T14:00:00Z" to="2023-01-20T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.0"></temperature>
+        <windDirection id="dd" deg="222.0" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.8"></windGust>
+        <humidity unit="percent" value="95.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1017.2"></pressure>
+        <cloudiness id="NN" percent="9.8"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.3"></mediumClouds>
+        <highClouds id="HIGH" percent="9.7"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-8.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T13:00:00Z" to="2023-01-20T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T15:00:00Z" to="2023-01-20T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.6"></temperature>
+        <windDirection id="dd" deg="268.8" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.0"></windGust>
+        <humidity unit="percent" value="94.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1018.0"></pressure>
+        <cloudiness id="NN" percent="23.7"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="5.8"></mediumClouds>
+        <highClouds id="HIGH" percent="19.6"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-9.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T14:00:00Z" to="2023-01-20T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T16:00:00Z" to="2023-01-20T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.8"></temperature>
+        <windDirection id="dd" deg="261.4" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.2" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.4"></windGust>
+        <humidity unit="percent" value="93.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1018.9"></pressure>
+        <cloudiness id="NN" percent="11.5"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="1.1"></mediumClouds>
+        <highClouds id="HIGH" percent="10.5"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T15:00:00Z" to="2023-01-20T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="LightCloud" number="2" code="fair_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T17:00:00Z" to="2023-01-20T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.8"></temperature>
+        <windDirection id="dd" deg="267.7" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.2" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.6"></windGust>
+        <humidity unit="percent" value="92.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1019.7"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T16:00:00Z" to="2023-01-20T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T18:00:00Z" to="2023-01-20T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.8"></temperature>
+        <windDirection id="dd" deg="275.9" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.6"></windGust>
+        <humidity unit="percent" value="91.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1020.7"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T17:00:00Z" to="2023-01-20T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T12:00:00Z" to="2023-01-20T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <minTemperature id="TTT" unit="celsius" value="-8.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-7.9"></maxTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T19:00:00Z" to="2023-01-20T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.4"></temperature>
+        <windDirection id="dd" deg="280.8" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.8"></windGust>
+        <humidity unit="percent" value="90.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1021.6"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T18:00:00Z" to="2023-01-20T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T13:00:00Z" to="2023-01-20T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.0"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T20:00:00Z" to="2023-01-20T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.5"></temperature>
+        <windDirection id="dd" deg="284.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.0"></windGust>
+        <humidity unit="percent" value="90.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1022.5"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T19:00:00Z" to="2023-01-20T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T14:00:00Z" to="2023-01-20T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T21:00:00Z" to="2023-01-20T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.7"></temperature>
+        <windDirection id="dd" deg="282.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.0"></windGust>
+        <humidity unit="percent" value="90.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1023.6"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T20:00:00Z" to="2023-01-20T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T15:00:00Z" to="2023-01-20T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T22:00:00Z" to="2023-01-20T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.0"></temperature>
+        <windDirection id="dd" deg="289.0" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.9"></windGust>
+        <humidity unit="percent" value="91.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1024.5"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T21:00:00Z" to="2023-01-20T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T16:00:00Z" to="2023-01-20T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T23:00:00Z" to="2023-01-20T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.0"></temperature>
+        <windDirection id="dd" deg="278.1" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.9"></windGust>
+        <humidity unit="percent" value="90.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1025.4"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T22:00:00Z" to="2023-01-20T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T17:00:00Z" to="2023-01-20T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T00:00:00Z" to="2023-01-21T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.9"></temperature>
+        <windDirection id="dd" deg="284.3" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.9"></windGust>
+        <humidity unit="percent" value="91.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1026.4"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T23:00:00Z" to="2023-01-21T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T18:00:00Z" to="2023-01-21T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T01:00:00Z" to="2023-01-21T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.0"></temperature>
+        <windDirection id="dd" deg="288.0" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.0"></windGust>
+        <humidity unit="percent" value="91.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1027.4"></pressure>
+        <cloudiness id="NN" percent="0.4"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.4"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T00:00:00Z" to="2023-01-21T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T19:00:00Z" to="2023-01-21T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.5"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T02:00:00Z" to="2023-01-21T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.1"></temperature>
+        <windDirection id="dd" deg="286.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.1"></windGust>
+        <humidity unit="percent" value="91.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1028.0"></pressure>
+        <cloudiness id="NN" percent="3.3"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="2.3"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="1.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T01:00:00Z" to="2023-01-21T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T20:00:00Z" to="2023-01-21T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.7"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T03:00:00Z" to="2023-01-21T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.2"></temperature>
+        <windDirection id="dd" deg="297.7" name="NW"></windDirection>
+        <windSpeed id="ff" mps="1.6" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.4"></windGust>
+        <humidity unit="percent" value="91.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1028.8"></pressure>
+        <cloudiness id="NN" percent="3.9"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="3.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="1.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.6"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T02:00:00Z" to="2023-01-21T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T21:00:00Z" to="2023-01-21T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.2"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.9"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T04:00:00Z" to="2023-01-21T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.3"></temperature>
+        <windDirection id="dd" deg="293.1" name="NW"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.4"></windGust>
+        <humidity unit="percent" value="92.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1029.4"></pressure>
+        <cloudiness id="NN" percent="0.3"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.3"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.1"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T03:00:00Z" to="2023-01-21T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T22:00:00Z" to="2023-01-21T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.9"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T05:00:00Z" to="2023-01-21T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.5"></temperature>
+        <windDirection id="dd" deg="292.4" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.6" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.2"></windGust>
+        <humidity unit="percent" value="92.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1030.0"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T04:00:00Z" to="2023-01-21T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-20T23:00:00Z" to="2023-01-21T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.9"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T06:00:00Z" to="2023-01-21T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.6"></temperature>
+        <windDirection id="dd" deg="286.1" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.3"></windGust>
+        <humidity unit="percent" value="91.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1030.9"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T05:00:00Z" to="2023-01-21T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T00:00:00Z" to="2023-01-21T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.6"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.0"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T07:00:00Z" to="2023-01-21T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.7"></temperature>
+        <windDirection id="dd" deg="282.3" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.1"></windGust>
+        <humidity unit="percent" value="91.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1031.9"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T06:00:00Z" to="2023-01-21T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T01:00:00Z" to="2023-01-21T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T08:00:00Z" to="2023-01-21T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.7"></temperature>
+        <windDirection id="dd" deg="280.9" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.2"></windGust>
+        <humidity unit="percent" value="91.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1032.9"></pressure>
+        <cloudiness id="NN" percent="0.3"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.3"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T07:00:00Z" to="2023-01-21T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T02:00:00Z" to="2023-01-21T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.2"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T09:00:00Z" to="2023-01-21T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.3"></temperature>
+        <windDirection id="dd" deg="271.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.3" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.0"></windGust>
+        <humidity unit="percent" value="91.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1033.5"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T08:00:00Z" to="2023-01-21T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T03:00:00Z" to="2023-01-21T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T10:00:00Z" to="2023-01-21T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.4"></temperature>
+        <windDirection id="dd" deg="287.9" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.9"></windGust>
+        <humidity unit="percent" value="92.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.0"></pressure>
+        <cloudiness id="NN" percent="0.4"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.4"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-9.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T09:00:00Z" to="2023-01-21T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T04:00:00Z" to="2023-01-21T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T11:00:00Z" to="2023-01-21T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.1"></temperature>
+        <windDirection id="dd" deg="284.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.9"></windGust>
+        <humidity unit="percent" value="93.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.3"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-8.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T10:00:00Z" to="2023-01-21T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T05:00:00Z" to="2023-01-21T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-7.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T12:00:00Z" to="2023-01-21T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-6.1"></temperature>
+        <windDirection id="dd" deg="297.9" name="NW"></windDirection>
+        <windSpeed id="ff" mps="1.1" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.4"></windGust>
+        <humidity unit="percent" value="94.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.5"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T11:00:00Z" to="2023-01-21T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T06:00:00Z" to="2023-01-21T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T13:00:00Z" to="2023-01-21T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-6.1"></temperature>
+        <windDirection id="dd" deg="296.5" name="NW"></windDirection>
+        <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.4"></windGust>
+        <humidity unit="percent" value="94.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.6"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T12:00:00Z" to="2023-01-21T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T07:00:00Z" to="2023-01-21T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T14:00:00Z" to="2023-01-21T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-6.7"></temperature>
+        <windDirection id="dd" deg="277.4" name="W"></windDirection>
+        <windSpeed id="ff" mps="0.7" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.2"></windGust>
+        <humidity unit="percent" value="95.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.8"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T13:00:00Z" to="2023-01-21T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T08:00:00Z" to="2023-01-21T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T15:00:00Z" to="2023-01-21T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.6"></temperature>
+        <windDirection id="dd" deg="255.5" name="W"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.7"></windGust>
+        <humidity unit="percent" value="94.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.3"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-8.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T14:00:00Z" to="2023-01-21T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T09:00:00Z" to="2023-01-21T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T16:00:00Z" to="2023-01-21T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.0"></temperature>
+        <windDirection id="dd" deg="239.6" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.8"></windGust>
+        <humidity unit="percent" value="93.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.6"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-9.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T15:00:00Z" to="2023-01-21T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T10:00:00Z" to="2023-01-21T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T17:00:00Z" to="2023-01-21T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.3"></temperature>
+        <windDirection id="dd" deg="229.5" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.7"></windGust>
+        <humidity unit="percent" value="93.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.5"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-9.6"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T16:00:00Z" to="2023-01-21T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T11:00:00Z" to="2023-01-21T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T18:00:00Z" to="2023-01-21T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-8.7"></temperature>
+        <windDirection id="dd" deg="223.6" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.6" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.6"></windGust>
+        <humidity unit="percent" value="92.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.8"></pressure>
+        <cloudiness id="NN" percent="0.5"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.5"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T17:00:00Z" to="2023-01-21T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T12:00:00Z" to="2023-01-21T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-8.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T19:00:00Z" to="2023-01-21T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.1"></temperature>
+        <windDirection id="dd" deg="201.8" name="S"></windDirection>
+        <windSpeed id="ff" mps="0.7" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.5"></windGust>
+        <humidity unit="percent" value="91.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T18:00:00Z" to="2023-01-21T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T13:00:00Z" to="2023-01-21T19:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.7"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T20:00:00Z" to="2023-01-21T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.5"></temperature>
+        <windDirection id="dd" deg="212.0" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.7"></windGust>
+        <humidity unit="percent" value="91.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.2"></pressure>
+        <cloudiness id="NN" percent="0.7"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.4"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T19:00:00Z" to="2023-01-21T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T14:00:00Z" to="2023-01-21T20:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-7.6"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T21:00:00Z" to="2023-01-21T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.9"></temperature>
+        <windDirection id="dd" deg="236.6" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.7" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.8"></windGust>
+        <humidity unit="percent" value="90.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.2"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T20:00:00Z" to="2023-01-21T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T15:00:00Z" to="2023-01-21T21:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.0"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T22:00:00Z" to="2023-01-21T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-10.3"></temperature>
+        <windDirection id="dd" deg="238.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.6" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.6"></windGust>
+        <humidity unit="percent" value="89.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.4"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T21:00:00Z" to="2023-01-21T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T16:00:00Z" to="2023-01-21T22:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T23:00:00Z" to="2023-01-21T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-10.7"></temperature>
+        <windDirection id="dd" deg="215.6" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.6" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.3"></windGust>
+        <humidity unit="percent" value="88.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.4"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T22:00:00Z" to="2023-01-21T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T17:00:00Z" to="2023-01-21T23:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.7"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T00:00:00Z" to="2023-01-22T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-10.8"></temperature>
+        <windDirection id="dd" deg="245.1" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.6" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.3"></windGust>
+        <humidity unit="percent" value="87.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.3"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T23:00:00Z" to="2023-01-22T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T18:00:00Z" to="2023-01-22T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T01:00:00Z" to="2023-01-22T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.1"></temperature>
+        <windDirection id="dd" deg="270.9" name="W"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.7"></windGust>
+        <humidity unit="percent" value="86.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-13.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T00:00:00Z" to="2023-01-22T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T19:00:00Z" to="2023-01-22T01:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.5"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T02:00:00Z" to="2023-01-22T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.3"></temperature>
+        <windDirection id="dd" deg="235.5" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.7" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.7"></windGust>
+        <humidity unit="percent" value="85.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.9"></pressure>
+        <cloudiness id="NN" percent="0.2"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.2"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-13.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T01:00:00Z" to="2023-01-22T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T20:00:00Z" to="2023-01-22T02:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.9"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T03:00:00Z" to="2023-01-22T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.5"></temperature>
+        <windDirection id="dd" deg="215.8" name="SW"></windDirection>
+        <windSpeed id="ff" mps="0.8" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.5"></windGust>
+        <humidity unit="percent" value="83.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.6"></pressure>
+        <cloudiness id="NN" percent="0.1"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.1"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-13.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T02:00:00Z" to="2023-01-22T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T21:00:00Z" to="2023-01-22T03:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-10.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T04:00:00Z" to="2023-01-22T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.5"></temperature>
+        <windDirection id="dd" deg="194.9" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.0" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="1.8"></windGust>
+        <humidity unit="percent" value="79.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.4"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-14.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T03:00:00Z" to="2023-01-22T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T22:00:00Z" to="2023-01-22T04:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-10.7"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T05:00:00Z" to="2023-01-22T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.6"></temperature>
+        <windDirection id="dd" deg="169.3" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.4"></windGust>
+        <humidity unit="percent" value="77.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.4"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-14.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T04:00:00Z" to="2023-01-22T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-21T23:00:00Z" to="2023-01-22T05:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.6"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-10.8"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T06:00:00Z" to="2023-01-22T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.7"></temperature>
+        <windDirection id="dd" deg="199.1" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.2" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.4"></windGust>
+        <humidity unit="percent" value="77.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.5"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-15.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T05:00:00Z" to="2023-01-22T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T00:00:00Z" to="2023-01-22T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-11.1"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T07:00:00Z" to="2023-01-22T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.9"></temperature>
+        <windDirection id="dd" deg="201.3" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.1" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.1"></windGust>
+        <humidity unit="percent" value="76.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.6"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-15.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T06:00:00Z" to="2023-01-22T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T01:00:00Z" to="2023-01-22T07:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-11.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T08:00:00Z" to="2023-01-22T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-12.0"></temperature>
+        <windDirection id="dd" deg="191.1" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.2" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.0"></windGust>
+        <humidity unit="percent" value="75.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.8"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-15.6"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T07:00:00Z" to="2023-01-22T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T02:00:00Z" to="2023-01-22T08:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-11.5"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T09:00:00Z" to="2023-01-22T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-11.4"></temperature>
+        <windDirection id="dd" deg="201.8" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.7"></windGust>
+        <humidity unit="percent" value="74.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-15.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T08:00:00Z" to="2023-01-22T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T03:00:00Z" to="2023-01-22T09:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-11.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T10:00:00Z" to="2023-01-22T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.7"></temperature>
+        <windDirection id="dd" deg="218.7" name="SW"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.7"></windGust>
+        <humidity unit="percent" value="71.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-13.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T09:00:00Z" to="2023-01-22T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T04:00:00Z" to="2023-01-22T10:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-9.7"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T11:00:00Z" to="2023-01-22T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.8"></temperature>
+        <windDirection id="dd" deg="209.1" name="SW"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.6"></windGust>
+        <humidity unit="percent" value="68.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.0"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T10:00:00Z" to="2023-01-22T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T05:00:00Z" to="2023-01-22T11:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-7.8"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T12:00:00Z" to="2023-01-22T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-6.4"></temperature>
+        <windDirection id="dd" deg="202.3" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.4" beaufort="1" name="Flau vind"></windSpeed>
+        <windGust id="ff_gust" mps="2.7"></windGust>
+        <humidity unit="percent" value="68.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T11:00:00Z" to="2023-01-22T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T06:00:00Z" to="2023-01-22T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.4"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T13:00:00Z" to="2023-01-22T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-6.3"></temperature>
+        <windDirection id="dd" deg="194.6" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.6" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.1"></windGust>
+        <humidity unit="percent" value="71.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.2"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T12:00:00Z" to="2023-01-22T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T07:00:00Z" to="2023-01-22T13:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-12.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T14:00:00Z" to="2023-01-22T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.0"></temperature>
+        <windDirection id="dd" deg="191.2" name="S"></windDirection>
+        <windSpeed id="ff" mps="1.8" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="3.4"></windGust>
+        <humidity unit="percent" value="75.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.2"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T13:00:00Z" to="2023-01-22T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T08:00:00Z" to="2023-01-22T14:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-11.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T15:00:00Z" to="2023-01-22T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.9"></temperature>
+        <windDirection id="dd" deg="195.6" name="S"></windDirection>
+        <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="4.1"></windGust>
+        <humidity unit="percent" value="78.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1036.1"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T14:00:00Z" to="2023-01-22T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T09:00:00Z" to="2023-01-22T15:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-9.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T16:00:00Z" to="2023-01-22T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.9"></temperature>
+        <windDirection id="dd" deg="200.6" name="S"></windDirection>
+        <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="4.7"></windGust>
+        <humidity unit="percent" value="78.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.8"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T15:00:00Z" to="2023-01-22T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T10:00:00Z" to="2023-01-22T16:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-7.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T17:00:00Z" to="2023-01-22T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.3"></temperature>
+        <windDirection id="dd" deg="202.6" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.6" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="5.4"></windGust>
+        <humidity unit="percent" value="76.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.7"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T16:00:00Z" to="2023-01-22T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T11:00:00Z" to="2023-01-22T17:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-7.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T18:00:00Z" to="2023-01-22T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.1"></temperature>
+        <windDirection id="dd" deg="205.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.4" beaufort="2" name="Svak vind"></windSpeed>
+        <windGust id="ff_gust" mps="5.5"></windGust>
+        <humidity unit="percent" value="74.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1035.7"></pressure>
+        <cloudiness id="NN" percent="0.0"></cloudiness>
+        <fog id="FOG" percent="0.0"></fog>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-10.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T17:00:00Z" to="2023-01-22T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <symbol id="Sun" number="1" code="clearsky_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T12:00:00Z" to="2023-01-22T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-7.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-6.3"></maxTemperature>
+        <symbol id="Sun" number="1" code="clearsky_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T00:00:00Z" to="2023-01-23T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-9.1"></temperature>
+        <windDirection id="dd" deg="211.2" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="82.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1034.4"></pressure>
+        <cloudiness id="NN" percent="21.1"></cloudiness>
+        <lowClouds id="LOW" percent="11.3"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="0.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-11.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-22T18:00:00Z" to="2023-01-23T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.4"></maxTemperature>
+        <symbol id="LightCloud" number="2" code="fair_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T06:00:00Z" to="2023-01-23T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-10.0"></temperature>
+        <windDirection id="dd" deg="216.7" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.8" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="82.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1032.2"></pressure>
+        <cloudiness id="NN" percent="56.2"></cloudiness>
+        <lowClouds id="LOW" percent="10.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="1.6"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T00:00:00Z" to="2023-01-23T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-8.5"></maxTemperature>
+        <symbol id="LightCloud" number="2" code="fair_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T12:00:00Z" to="2023-01-23T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-7.9"></temperature>
+        <windDirection id="dd" deg="218.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="74.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1030.3"></pressure>
+        <cloudiness id="NN" percent="97.3"></cloudiness>
+        <lowClouds id="LOW" percent="0.8"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="4.3"></mediumClouds>
+        <highClouds id="HIGH" percent="91.8"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-12.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T06:00:00Z" to="2023-01-23T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-10.6"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-7.9"></maxTemperature>
+        <symbol id="PartlyCloud" number="3" code="partlycloudy_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T18:00:00Z" to="2023-01-23T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-4.8"></temperature>
+        <windDirection id="dd" deg="246.5" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.0" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="77.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1028.9"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="3.9"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="90.6"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-8.5"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T12:00:00Z" to="2023-01-23T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-6.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-4.4"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T00:00:00Z" to="2023-01-24T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-4.3"></temperature>
+        <windDirection id="dd" deg="279.3" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.5" beaufort="1" name="Flau vind"></windSpeed>
+        <humidity unit="percent" value="81.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1029.1"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="3.9"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="86.7"></mediumClouds>
+        <highClouds id="HIGH" percent="97.7"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-23T18:00:00Z" to="2023-01-24T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-5.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-4.0"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T06:00:00Z" to="2023-01-24T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-4.7"></temperature>
+        <windDirection id="dd" deg="283.7" name="W"></windDirection>
+        <windSpeed id="ff" mps="1.7" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="85.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1028.3"></pressure>
+        <cloudiness id="NN" percent="98.0"></cloudiness>
+        <lowClouds id="LOW" percent="1.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="7.0"></mediumClouds>
+        <highClouds id="HIGH" percent="66.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T00:00:00Z" to="2023-01-24T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-5.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-3.5"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T12:00:00Z" to="2023-01-24T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-3.7"></temperature>
+        <windDirection id="dd" deg="240.2" name="SW"></windDirection>
+        <windSpeed id="ff" mps="1.7" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="83.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1030.5"></pressure>
+        <cloudiness id="NN" percent="98.8"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="98.4"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-6.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T06:00:00Z" to="2023-01-24T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-5.6"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-3.3"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T18:00:00Z" to="2023-01-24T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-1.6"></temperature>
+        <windDirection id="dd" deg="216.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.9" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="83.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1023.2"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="1.6"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="96.5"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T12:00:00Z" to="2023-01-24T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-3.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-1.2"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T00:00:00Z" to="2023-01-25T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="0.2"></temperature>
+        <windDirection id="dd" deg="226.9" name="SW"></windDirection>
+        <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="85.0"></humidity>
+        <pressure id="pr" unit="hPa" value="1017.0"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="3.5"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="71.5"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-2.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-24T18:00:00Z" to="2023-01-25T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="0.2"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T06:00:00Z" to="2023-01-25T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="2.6"></temperature>
+        <windDirection id="dd" deg="247.0" name="SW"></windDirection>
+        <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="85.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1011.4"></pressure>
+        <cloudiness id="NN" percent="99.2"></cloudiness>
+        <lowClouds id="LOW" percent="0.8"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="3.9"></mediumClouds>
+        <highClouds id="HIGH" percent="96.9"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="0.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T00:00:00Z" to="2023-01-25T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-0.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="2.6"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T12:00:00Z" to="2023-01-25T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="4.5"></temperature>
+        <windDirection id="dd" deg="253.7" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="78.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1008.4"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="5.9"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="37.5"></mediumClouds>
+        <highClouds id="HIGH" percent="96.9"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="1.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T06:00:00Z" to="2023-01-25T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="2.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="4.8"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T18:00:00Z" to="2023-01-25T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="2.6"></temperature>
+        <windDirection id="dd" deg="268.4" name="W"></windDirection>
+        <windSpeed id="ff" mps="2.8" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="82.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1007.3"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="2.3"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="15.6"></mediumClouds>
+        <highClouds id="HIGH" percent="53.1"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-0.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T12:00:00Z" to="2023-01-25T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="2.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="4.3"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T00:00:00Z" to="2023-01-26T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="2.1"></temperature>
+        <windDirection id="dd" deg="289.5" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="79.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1009.6"></pressure>
+        <cloudiness id="NN" percent="48.4"></cloudiness>
+        <lowClouds id="LOW" percent="3.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.8"></mediumClouds>
+        <highClouds id="HIGH" percent="14.1"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-1.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-25T18:00:00Z" to="2023-01-26T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="1.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="2.8"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T06:00:00Z" to="2023-01-26T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="1.0"></temperature>
+        <windDirection id="dd" deg="295.2" name="NW"></windDirection>
+        <windSpeed id="ff" mps="2.8" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="84.3"></humidity>
+        <pressure id="pr" unit="hPa" value="1010.3"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="53.1"></mediumClouds>
+        <highClouds id="HIGH" percent="78.9"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-1.6"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T00:00:00Z" to="2023-01-26T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="0.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="2.6"></maxTemperature>
+        <symbol id="PartlyCloud" number="3" code="partlycloudy_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T12:00:00Z" to="2023-01-26T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="2.3"></temperature>
+        <windDirection id="dd" deg="288.1" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.1" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="78.4"></humidity>
+        <pressure id="pr" unit="hPa" value="1011.5"></pressure>
+        <cloudiness id="NN" percent="98.8"></cloudiness>
+        <lowClouds id="LOW" percent="1.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="30.5"></mediumClouds>
+        <highClouds id="HIGH" percent="87.5"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-1.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T06:00:00Z" to="2023-01-26T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="0.6"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="2.5"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T18:00:00Z" to="2023-01-26T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-1.7"></temperature>
+        <windDirection id="dd" deg="318.7" name="NW"></windDirection>
+        <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="81.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1021.1"></pressure>
+        <cloudiness id="NN" percent="37.5"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="14.8"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T12:00:00Z" to="2023-01-26T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-1.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="0.5"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T00:00:00Z" to="2023-01-27T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-2.9"></temperature>
+        <windDirection id="dd" deg="303.8" name="NW"></windDirection>
+        <windSpeed id="ff" mps="2.1" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="86.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1022.8"></pressure>
+        <cloudiness id="NN" percent="57.4"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="32.4"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-5.1"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-26T18:00:00Z" to="2023-01-27T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-3.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-1.7"></maxTemperature>
+        <symbol id="LightCloud" number="2" code="fair_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T06:00:00Z" to="2023-01-27T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-4.5"></temperature>
+        <windDirection id="dd" deg="294.7" name="NW"></windDirection>
+        <windSpeed id="ff" mps="2.5" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="86.1"></humidity>
+        <pressure id="pr" unit="hPa" value="1021.5"></pressure>
+        <cloudiness id="NN" percent="62.5"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="52.3"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-6.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T00:00:00Z" to="2023-01-27T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-4.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-2.5"></maxTemperature>
+        <symbol id="PartlyCloud" number="3" code="partlycloudy_night"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T12:00:00Z" to="2023-01-27T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-2.6"></temperature>
+        <windDirection id="dd" deg="263.8" name="W"></windDirection>
+        <windSpeed id="ff" mps="2.3" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="79.9"></humidity>
+        <pressure id="pr" unit="hPa" value="1022.9"></pressure>
+        <cloudiness id="NN" percent="58.2"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="0.0"></mediumClouds>
+        <highClouds id="HIGH" percent="48.4"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-5.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T06:00:00Z" to="2023-01-27T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-4.8"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-2.6"></maxTemperature>
+        <symbol id="PartlyCloud" number="3" code="partlycloudy_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T18:00:00Z" to="2023-01-27T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.4"></temperature>
+        <windDirection id="dd" deg="235.0" name="SW"></windDirection>
+        <windSpeed id="ff" mps="2.7" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="80.2"></humidity>
+        <pressure id="pr" unit="hPa" value="1010.3"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="10.5"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="100.0"></mediumClouds>
+        <highClouds id="HIGH" percent="99.2"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-3.6"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T12:00:00Z" to="2023-01-27T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-1.2"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.1"></maxTemperature>
+        <symbol id="PartlyCloud" number="3" code="partlycloudy_day"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T00:00:00Z" to="2023-01-28T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.5"></temperature>
+        <windDirection id="dd" deg="244.0" name="SW"></windDirection>
+        <windSpeed id="ff" mps="1.9" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="81.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1006.6"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="5.5"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="71.9"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-3.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-27T18:00:00Z" to="2023-01-28T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.1"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T06:00:00Z" to="2023-01-28T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-3.2"></temperature>
+        <windDirection id="dd" deg="269.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="2.7" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="81.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1007.8"></pressure>
+        <cloudiness id="NN" percent="87.9"></cloudiness>
+        <lowClouds id="LOW" percent="0.4"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="16.4"></mediumClouds>
+        <highClouds id="HIGH" percent="9.8"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-6.2"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T00:00:00Z" to="2023-01-28T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-3.5"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-1.8"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T12:00:00Z" to="2023-01-28T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.1"></temperature>
+        <windDirection id="dd" deg="250.3" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.4" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="74.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1005.0"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="2.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="78.5"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T06:00:00Z" to="2023-01-28T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-1.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="0.0"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T18:00:00Z" to="2023-01-28T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.8"></temperature>
+        <windDirection id="dd" deg="254.4" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="80.5"></humidity>
+        <pressure id="pr" unit="hPa" value="1001.9"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="3.1"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="58.6"></mediumClouds>
+        <highClouds id="HIGH" percent="96.9"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-3.9"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T12:00:00Z" to="2023-01-28T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-0.9"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="0.3"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T00:00:00Z" to="2023-01-29T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-1.6"></temperature>
+        <windDirection id="dd" deg="266.3" name="W"></windDirection>
+        <windSpeed id="ff" mps="2.2" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="80.7"></humidity>
+        <pressure id="pr" unit="hPa" value="1001.0"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="0.4"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="40.2"></mediumClouds>
+        <highClouds id="HIGH" percent="84.4"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-28T18:00:00Z" to="2023-01-29T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.2"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T06:00:00Z" to="2023-01-29T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-3.1"></temperature>
+        <windDirection id="dd" deg="295.1" name="NW"></windDirection>
+        <windSpeed id="ff" mps="4.1" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="76.4"></humidity>
+        <pressure id="pr" unit="hPa" value="999.5"></pressure>
+        <cloudiness id="NN" percent="87.9"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="2.0"></mediumClouds>
+        <highClouds id="HIGH" percent="75.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-7.0"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T00:00:00Z" to="2023-01-29T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-3.3"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-1.7"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T12:00:00Z" to="2023-01-29T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="0.2"></temperature>
+        <windDirection id="dd" deg="241.2" name="SW"></windDirection>
+        <windSpeed id="ff" mps="3.5" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="72.6"></humidity>
+        <pressure id="pr" unit="hPa" value="1000.9"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="3.9"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="82.0"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T06:00:00Z" to="2023-01-29T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="0.1"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T18:00:00Z" to="2023-01-29T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-1.7"></temperature>
+        <windDirection id="dd" deg="243.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="80.8"></humidity>
+        <pressure id="pr" unit="hPa" value="1000.0"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="19.9"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="69.1"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-4.8"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T12:00:00Z" to="2023-01-29T18:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.1"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.6"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-30T00:00:00Z" to="2023-01-30T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.8"></temperature>
+        <windDirection id="dd" deg="246.4" name="SW"></windDirection>
+        <windSpeed id="ff" mps="3.0" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="82.0"></humidity>
+        <pressure id="pr" unit="hPa" value="997.5"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="16.4"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="72.7"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-3.7"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-29T18:00:00Z" to="2023-01-30T00:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.4"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.7"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-30T06:00:00Z" to="2023-01-30T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.4"></temperature>
+        <windDirection id="dd" deg="259.9" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.3" beaufort="2" name="Svak vind"></windSpeed>
+        <humidity unit="percent" value="81.4"></humidity>
+        <pressure id="pr" unit="hPa" value="994.9"></pressure>
+        <cloudiness id="NN" percent="100.0"></cloudiness>
+        <lowClouds id="LOW" percent="6.2"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="16.4"></mediumClouds>
+        <highClouds id="HIGH" percent="100.0"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-3.4"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-30T00:00:00Z" to="2023-01-30T06:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.0"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.3"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-30T12:00:00Z" to="2023-01-30T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <temperature id="TTT" unit="celsius" value="-0.8"></temperature>
+        <windDirection id="dd" deg="287.2" name="W"></windDirection>
+        <windSpeed id="ff" mps="3.7" beaufort="3" name="Lett bris"></windSpeed>
+        <humidity unit="percent" value="67.8"></humidity>
+        <pressure id="pr" unit="hPa" value="996.9"></pressure>
+        <cloudiness id="NN" percent="46.1"></cloudiness>
+        <lowClouds id="LOW" percent="0.0"></lowClouds>
+        <mediumClouds id="MEDIUM" percent="1.6"></mediumClouds>
+        <highClouds id="HIGH" percent="22.7"></highClouds>
+        <dewpointTemperature id="TD" unit="celsius" value="-6.3"></dewpointTemperature>
+      </location>
+    </time>
+    <time datatype="forecast" from="2023-01-30T06:00:00Z" to="2023-01-30T12:00:00Z">
+      <location altitude="20" latitude="62.23" longitude="17.18">
+        <precipitation unit="mm" value="0.0" minvalue="0.0" maxvalue="0.0"></precipitation>
+        <minTemperature id="TTT" unit="celsius" value="-2.7"></minTemperature>
+        <maxTemperature id="TTT" unit="celsius" value="-0.8"></maxTemperature>
+        <symbol id="Cloud" number="4" code="cloudy"></symbol>
+      </location>
+    </time>
+  </product>
+</weatherdata>

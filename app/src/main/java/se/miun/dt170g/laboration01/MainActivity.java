@@ -9,6 +9,13 @@ import android.util.Log;
 import java.util.concurrent.ExecutionException;
 
 
+import org.xmlpull.v1.XmlPullParserException;
+
+import java.io.IOException;
+
+import java.io.BufferedReader;
+import java.io.File;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -28,7 +35,8 @@ public class MainActivity extends AppCompatActivity {
             Log.i("Lord", "Error2");
         }
         Log.i("Lord", result);
+
+        //Parser parser = new Parser();
+        //parse.getWind();
     }
-
-
 }
